@@ -1,11 +1,7 @@
 package com.ole;
 
-import com.ole.Expression.Exceptions.ExpressionException;
-import com.ole.Expression.ExpressionSolver;
-
-import java.net.StandardSocketOptions;
-import java.util.List;
-import java.util.Map;
+import com.ole.expression.exceptions.ExpressionException;
+import com.ole.expression.ExpressionSolver;
 import java.util.Scanner;
 
 public class Program {

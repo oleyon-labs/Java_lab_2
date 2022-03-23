@@ -1,9 +1,9 @@
-package com.ole.Expression;
+package com.ole.expression;
 
 import java.util.*;
 import java.util.function.Function;
 
-import com.ole.Expression.Exceptions.*;
+import com.ole.expression.exceptions.*;
 
 /**
  * Класс для вычисления выражений.
